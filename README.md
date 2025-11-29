@@ -130,14 +130,4 @@ After running tests, Playwright automatically generates:
 Feel free to fork this repo and submit pull requests.
 Suggestions and improvements are always welcome!
 
----
 
-
-
-
-
-```
-
-
-
-```
